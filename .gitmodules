@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TDCor"]
+	path = TDCor
+	url = https://github.com/cran/TDCor
+	shallow = true
+	registered = true
